@@ -1,0 +1,36 @@
+/* The position Property */
+
+
+/* position static */
+
+.p-static {
+    position: static;
+}
+
+
+/* position relative */
+
+.p-relative {
+    position: relative;
+}
+
+
+/* position absolute */
+
+.p-absolute {
+    position: absolute;
+}
+
+
+/* position fixed */
+
+.p-fixed {
+    position: fixed;
+}
+
+
+/* position sticky */
+
+.p-sticky {
+    position: sticky;
+}
