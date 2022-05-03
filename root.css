@@ -1,0 +1,12 @@
+:root {
+    --color-primary: #0088ff;
+    --color-primary-light: #256bc8;
+    --color-primary-dark: #004eb4;
+    --color-secondary: #1df748;
+    --color-secondary-light: #48dc66;
+    --color-secondary-dark: #00c828;
+    --color-primary-shadow: grey;
+    --color-input-shadow: #0aa7eab1;
+    --color-input-border: #00b3ff;
+    --color-button-text: white;
+}

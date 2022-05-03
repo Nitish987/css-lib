@@ -1,0 +1,189 @@
+/* input fields */
+.input-field {
+    width: 100%;
+    padding: 12px;
+    outline: none;
+    border: 1px solid var(--color-input-border);
+    border-radius: 5px;
+}
+
+/* input field sizes */
+.inf-sm {
+    padding: 4px;
+}
+
+.inf-lg {
+    padding: 20px;
+}
+
+/* input field on focus */
+.input-field:focus {
+    border: 1px solid var(--color-input-shadow);
+    box-shadow: 0px 0px 10px var(--color-input-shadow);
+}
+
+/* checkbox */
+.input-checkbox {
+    height: 18px;
+    width: 18px;
+    border: 1px solid var(--color-input-border);
+    border-radius: 5px;
+}
+
+/* checkbox sizes */
+.inc-sm {
+    height: 12px;
+    width: 12px;
+}
+
+.inc-lg {
+    height: 22px;
+    width: 22px;
+}
+
+/* checkbox on focus */
+.input-checkbox:focus {
+    box-shadow: 0px 0px 10px var(--color-input-shadow);
+}
+
+/* radio */
+.input-radio {
+    height: 18px;
+    width: 18px;
+}
+
+/* radio sizes */
+.inr-sm {
+    height: 12px;
+    width: 12px;
+}
+
+.inr-lg {
+    height: 22px;
+    width: 22px;
+}
+
+/* buttons */
+.btn {
+    outline: none;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 5px;
+    font-size: 17px;
+}
+
+/* button primary */
+.btn-primary {
+    color: var(--color-button-text);
+    background-color: var(--color-primary);
+}
+
+.btn-primary:focus {
+    box-shadow: 0px 0px 10px var(--color-primary);
+}
+
+.btn-primary:hover {
+    background-color: var(--color-primary-light);
+}
+
+/* button secondary */
+.btn-secondary {
+    color: var(--color-button-text);
+    background-color: var(--color-secondary);
+}
+
+.btn-secondary:focus {
+    box-shadow: 0px 0px 10px var(--color-secondary);
+}
+
+.btn-secondary:hover {
+    background-color: var(--color-secondary-light);
+}
+
+/* button success */
+.btn-success {
+    color: white;
+    background-color: #198754;
+}
+
+.btn-success:focus {
+    box-shadow: 0px 0px 10px #198754;
+}
+
+.btn-success:hover {
+    background-color: #2e9967;
+}
+
+/* button warning */
+.btn-warning {
+    color: white;
+    background-color: #ffc107;
+}
+
+.btn-warning:focus {
+    box-shadow: 0px 0px 10px #ffc107;
+}
+
+.btn-warning:hover {
+    background-color: #d8b13b;
+}
+
+/* button danger */
+.btn-danger {
+    color: white;
+    background-color: #dc3545;
+}
+
+.btn-danger:focus {
+    box-shadow: 0px 0px 10px #dc3545;
+}
+
+.btn-danger:hover {
+    background-color: #e65564;
+}
+
+/* button light */
+.btn-light {
+    color: black;
+    background-color: #e1e4e7;
+}
+
+.btn-light:focus {
+    box-shadow: 0px 0px 10px #d3d4d5;
+}
+
+.btn-light:hover {
+    background-color: #d3d4d5;
+}
+
+/* button dark */
+.btn-dark {
+    color: white;
+    background-color: #212529;
+}
+
+.btn-dark:focus {
+    box-shadow: 0px 0px 10px #212529;
+}
+
+.btn-dark:hover {
+    background-color: #303336;
+}
+
+/* button link */
+.btn-link {
+    color: #0d6efd;
+    background-color: white;
+}
+
+.btn-link:focus {
+    box-shadow: 0px 0px 10px #0d6efd;
+}
+
+.btn-link:hover {
+    background-color: whitesmoke;
+}
+
+
+
+
