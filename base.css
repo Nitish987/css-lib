@@ -7,582 +7,582 @@ body {
 /* margins */
 /* margin top right bottom left */
 .m-1 {
-    margin: 10px;
+    margin: 0.625rem;
 }
 
 .m-2 {
-    margin: 20px;
+    margin: 1.25rem;
 }
 
 .m-3 {
-    margin: 30px;
+    margin: 1.875rem;
 }
 
 .m-4 {
-    margin: 40px;
+    margin: 2.5rem;
 }
 
 .m-5 {
-    margin: 50px;
+    margin: 3.125rem;
 }
 
 .m-6 {
-    margin: 60px;
+    margin: 3.75rem;
 }
 
 .m-7 {
-    margin: 70px;
+    margin: 4.375rem;
 }
 
 .m-8 {
-    margin: 80px;
+    margin: 5rem;
 }
 
 .m-9 {
-    margin: 90px;
+    margin: 5.625rem;
 }
 
 .m-10 {
-    margin: 100px;
+    margin: 6.25rem;
 }
 
 /* margin vertical */
 .mv-1 {
-    margin: 0px 10px;
+    margin: 0rem 0.625rem;
 }
 
 .mv-2 {
-    margin: 0px 20px;
+    margin: 0rem 1.25rem;
 }
 
 .mv-3 {
-    margin: 0px 30px;
+    margin: 0rem 1.875rem;
 }
 
 .mv-4 {
-    margin: 0px 40px;
+    margin: 0rem 2.5rem;
 }
 
 .mv-5 {
-    margin: 0px 50px;
+    margin: 0rem 3.125rem;
 }
 
 .mv-6 {
-    margin: 0px 60px;
+    margin: 0rem 3.75rem;
 }
 
 .mv-7 {
-    margin: 0px 70px;
+    margin: 0rem 4.375rem;
 }
 
 .mv-8 {
-    margin: 0px 80px;
+    margin: 0rem 5rem;
 }
 
 .mv-9 {
-    margin: 0px 90px;
+    margin: 0rem 5.625rem;
 }
 
 .mv-10 {
-    margin: 0px 100px;
+    margin: 0rem 6.25rem;
 }
 
 /* margin horizontal */
 .mh-1 {
-    margin: 10px 0px;
+    margin: 0.625rem 0rem;
 }
 
 .mh-2 {
-    margin: 20px 0px;
+    margin: 1.25rem 0rem;
 }
 
 .mh-3 {
-    margin: 30px 0px;
+    margin: 1.875rem 0rem;
 }
 
 .mh-4 {
-    margin: 40px 0px;
+    margin: 2.5rem 0rem;
 }
 
 .mh-5 {
-    margin: 50px 0px;
+    margin: 3.125rem 0rem;
 }
 
 .mh-6 {
-    margin: 60px 0px;
+    margin: 3.75rem 0rem;
 }
 
 .mh-7 {
-    margin: 70px 0px;
+    margin: 4.375rem 0rem;
 }
 
 .mh-8 {
-    margin: 80px 0px;
+    margin: 5rem 0rem;
 }
 
 .mh-9 {
-    margin: 90px 0px;
+    margin: 5.625rem 0rem;
 }
 
 .mh-10 {
-    margin: 100px 0px;
+    margin: 6.25rem 0rem;
 }
 
 /* margin top */
 .mt-1 {
-    margin-top: 10px;
+    margin-top: 0.625rem;
 }
 
 .mt-2 {
-    margin-top: 20px;
+    margin-top: 1.25rem;
 }
 
 .mt-3 {
-    margin-top: 30px;
+    margin-top: 1.875rem;
 }
 
 .mt-4 {
-    margin-top: 40px;
+    margin-top: 2.5rem;
 }
 
 .mt-5 {
-    margin-top: 50px;
+    margin-top: 3.125rem;
 }
 
 .mt-6 {
-    margin-top: 60px;
+    margin-top: 3.75rem;
 }
 
 .mt-7 {
-    margin-top: 70px;
+    margin-top: 4.375rem;
 }
 
 .mt-8 {
-    margin-top: 80px;
+    margin-top: 5rem;
 }
 
 .mt-9 {
-    margin-top: 90px;
+    margin-top: 5.625rem;
 }
 
 .mt-10 {
-    margin-top: 100px;
+    margin-top: 6.25rem;
 }
 
 /* margin right */
 .mr-1 {
-    margin-right: 10px;
+    margin-right: 0.625rem;
 }
 
 .mr-2 {
-    margin-right: 20px;
+    margin-right: 1.25rem;
 }
 
 .mr-3 {
-    margin-right: 30px;
+    margin-right: 1.875rem;
 }
 
 .mr-4 {
-    margin-right: 40px;
+    margin-right: 2.5rem;
 }
 
 .mr-5 {
-    margin-right: 50px;
+    margin-right: 3.125rem;
 }
 
 .mr-6 {
-    margin-right: 60px;
+    margin-right: 3.75rem;
 }
 
 .mr-7 {
-    margin-right: 70px;
+    margin-right: 4.375rem;
 }
 
 .mr-8 {
-    margin-right: 80px;
+    margin-right: 5rem;
 }
 
 .mr-9 {
-    margin-right: 90px;
+    margin-right: 5.625rem;
 }
 
 .mr-10 {
-    margin-right: 100px;
+    margin-right: 6.25rem;
 }
 
 /* margin bottom */
 .mb-1 {
-    margin-bottom: 10px;
+    margin-bottom: 0.625rem;
 }
 
 .mb-2 {
-    margin-bottom: 20px;
+    margin-bottom: 1.25rem;
 }
 
 .mb-3 {
-    margin-bottom: 30px;
+    margin-bottom: 1.875rem;
 }
 
 .mb-4 {
-    margin-bottom: 40px;
+    margin-bottom: 2.5rem;
 }
 
 .mb-5 {
-    margin-bottom: 50px;
+    margin-bottom: 3.125rem;
 }
 
 .mb-6 {
-    margin-bottom: 60px;
+    margin-bottom: 3.75rem;
 }
 
 .mb-7 {
-    margin-bottom: 70px;
+    margin-bottom: 4.375rem;
 }
 
 .mb-8 {
-    margin-bottom: 80px;
+    margin-bottom: 5rem;
 }
 
 .mb-9 {
-    margin-bottom: 90px;
+    margin-bottom: 5.625rem;
 }
 
 .mb-10 {
-    margin-bottom: 100px;
+    margin-bottom: 6.25rem;
 }
 
 /* margin left */
 .ml-1 {
-    margin-left: 10px;
+    margin-left: 0.625rem;
 }
 
 .ml-2 {
-    margin-left: 20px;
+    margin-left: 1.25rem;
 }
 
 .ml-3 {
-    margin-left: 30px;
+    margin-left: 1.875rem;
 }
 
 .ml-4 {
-    margin-left: 40px;
+    margin-left: 2.5rem;
 }
 
 .ml-5 {
-    margin-left: 50px;
+    margin-left: 3.125rem;
 }
 
 .ml-6 {
-    margin-left: 60px;
+    margin-left: 3.75rem;
 }
 
 .ml-7 {
-    margin-left: 70px;
+    margin-left: 4.375rem;
 }
 
 .ml-8 {
-    margin-left: 80px;
+    margin-left: 5rem;
 }
 
 .ml-9 {
-    margin-left: 90px;
+    margin-left: 5.625rem;
 }
 
 .ml-10 {
-    margin-left: 100px;
+    margin-left: 6.25rem;
 }
 
 /* paddings */
 /* padding top right bottom left */
 .p-1 {
-    padding: 10px;
+    padding: 0.625rem;
 }
 
 .p-2 {
-    padding: 20px;
+    padding: 1.25rem;
 }
 
 .p-3 {
-    padding: 30px;
+    padding: 1.875rem;
 }
 
 .p-4 {
-    padding: 40px;
+    padding: 2.5rem;
 }
 
 .p-5 {
-    padding: 50px;
+    padding: 3.125rem;
 }
 
 .p-6 {
-    padding: 60px;
+    padding: 3.75rem;
 }
 
 .p-7 {
-    padding: 70px;
+    padding: 4.375rem;
 }
 
 .p-8 {
-    padding: 80px;
+    padding: 5rem;
 }
 
 .p-9 {
-    padding: 90px;
+    padding: 5.625rem;
 }
 
 .p-10 {
-    padding: 100px;
+    padding: 6.25rem;
 }
 
 /* padding vertical */
 .pv-1 {
-    padding: 0px 10px;
+    padding: 0rem 0.625rem;
 }
 
 .pv-2 {
-    padding: 0px 20px;
+    padding: 0rem 1.25rem;
 }
 
 .pv-3 {
-    padding: 0px 30px;
+    padding: 0rem 1.875rem;
 }
 
 .pv-4 {
-    padding: 0px 40px;
+    padding: 0rem 2.5rem;
 }
 
 .pv-5 {
-    padding: 0px 50px;
+    padding: 0rem 3.125rem;
 }
 
 .pv-6 {
-    padding: 0px 60px;
+    padding: 0rem 3.75rem;
 }
 
 .pv-7 {
-    padding: 0px 70px;
+    padding: 0rem 4.375rem;
 }
 
 .pv-8 {
-    padding: 0px 80px;
+    padding: 0rem 5rem;
 }
 
 .pv-9 {
-    padding: 0px 90px;
+    padding: 0rem 5.625rem;
 }
 
 .pv-10 {
-    padding: 0px 100px;
+    padding: 0rem 6.25rem;
 }
 
 /* padding horizontal */
 .ph-1 {
-    padding: 10px 0px;
+    padding: 0.625rem 0rem;
 }
 
 .ph-2 {
-    padding: 20px 0px;
+    padding: 1.25rem 0rem;
 }
 
 .ph-3 {
-    padding: 30px 0px;
+    padding: 1.875rem 0rem;
 }
 
 .ph-4 {
-    padding: 40px 0px;
+    padding: 2.5rem 0rem;
 }
 
 .ph-5 {
-    padding: 50px 0px;
+    padding: 3.125rem 0rem;
 }
 
 .ph-6 {
-    padding: 60px 0px;
+    padding: 3.75rem 0rem;
 }
 
 .ph-7 {
-    padding: 70px 0px;
+    padding: 4.375rem 0rem;
 }
 
 .ph-8 {
-    padding: 80px 0px;
+    padding: 5rem 0rem;
 }
 
 .ph-9 {
-    padding: 90px 0px;
+    padding: 5.625rem 0rem;
 }
 
 .ph-10 {
-    padding: 100px 0px;
+    padding: 6.25rem 0rem;
 }
 
 /* padding top */
 .pt-1 {
-    padding-top: 10px;
+    padding-top: 0.625rem;
 }
 
 .pt-2 {
-    padding-top: 20px;
+    padding-top: 1.25rem;
 }
 
 .pt-3 {
-    padding-top: 30px;
+    padding-top: 1.875rem;
 }
 
 .pt-4 {
-    padding-top: 40px;
+    padding-top: 2.5rem;
 }
 
 .pt-5 {
-    padding-top: 50px;
+    padding-top: 3.125rem;
 }
 
 .pt-6 {
-    padding-top: 60px;
+    padding-top: 3.75rem;
 }
 
 .pt-7 {
-    padding-top: 70px;
+    padding-top: 4.375rem;
 }
 
 .pt-8 {
-    padding-top: 80px;
+    padding-top: 5rem;
 }
 
 .pt-9 {
-    padding-top: 90px;
+    padding-top: 5.625rem;
 }
 
 .pt-10 {
-    padding-top: 100px;
+    padding-top: 6.25rem;
 }
 
 /* padding right */
 .pr-1 {
-    padding-right: 10px;
+    padding-right: 0.625rem;
 }
 
 .pr-2 {
-    padding-right: 20px;
+    padding-right: 1.25rem;
 }
 
 .pr-3 {
-    padding-right: 30px;
+    padding-right: 1.875rem;
 }
 
 .pr-4 {
-    padding-right: 40px;
+    padding-right: 2.5rem;
 }
 
 .pr-5 {
-    padding-right: 50px;
+    padding-right: 3.125rem;
 }
 
 .pr-6 {
-    padding-right: 60px;
+    padding-right: 3.75rem;
 }
 
 .pr-7 {
-    padding-right: 70px;
+    padding-right: 4.375rem;
 }
 
 .pr-8 {
-    padding-right: 80px;
+    padding-right: 5rem;
 }
 
 .pr-9 {
-    padding-right: 90px;
+    padding-right: 5.625rem;
 }
 
 .pr-10 {
-    padding-right: 100px;
+    padding-right: 6.25rem;
 }
 
 /* padding bottom */
 .pb-1 {
-    padding-bottom: 10px;
+    padding-bottom: 0.625rem;
 }
 
 .pb-2 {
-    padding-bottom: 20px;
+    padding-bottom: 1.25rem;
 }
 
 .pb-3 {
-    padding-bottom: 30px;
+    padding-bottom: 1.875rem;
 }
 
 .pb-4 {
-    padding-bottom: 40px;
+    padding-bottom: 2.5rem;
 }
 
 .pb-5 {
-    padding-bottom: 50px;
+    padding-bottom: 3.125rem;
 }
 
 .pb-6 {
-    padding-bottom: 60px;
+    padding-bottom: 3.75rem;
 }
 
 .pb-7 {
-    padding-bottom: 70px;
+    padding-bottom: 4.375rem;
 }
 
 .pb-8 {
-    padding-bottom: 80px;
+    padding-bottom: 5rem;
 }
 
 .pb-9 {
-    padding-bottom: 90px;
+    padding-bottom: 5.625rem;
 }
 
 .pb-10 {
-    padding-bottom: 100px;
+    padding-bottom: 6.25rem;
 }
 
 /* padding left */
 .pl-1 {
-    padding-left: 10px;
+    padding-left: 0.625rem;
 }
 
 .pl-2 {
-    padding-left: 20px;
+    padding-left: 1.25rem;
 }
 
 .pl-3 {
-    padding-left: 30px;
+    padding-left: 1.875rem;
 }
 
 .pl-4 {
-    padding-left: 40px;
+    padding-left: 2.5rem;
 }
 
 .pl-5 {
-    padding-left: 50px;
+    padding-left: 3.125rem;
 }
 
 .pl-6 {
-    padding-left: 60px;
+    padding-left: 3.75rem;
 }
 
 .pl-7 {
-    padding-left: 70px;
+    padding-left: 4.375rem;
 }
 
 .pl-8 {
-    padding-left: 80px;
+    padding-left: 5rem;
 }
 
 .pl-9 {
-    padding-left: 90px;
+    padding-left: 5.625rem;
 }
 
 .pl-10 {
-    padding-left: 100px;
+    padding-left: 6.25rem;
 }
 
 /* container */
 .container {
-    margin: 0px 100px;  
+    margin: 0rem 6.25rem;  
 }
 
 /* grid */
@@ -609,19 +609,19 @@ body {
 
 /* grid gap properties */
 .grid-gap-1 {
-    gap: 10px;
+    gap: 0.625rem;
 }
 
 .grid-gap-2 {
-    gap: 20px;
+    gap: 1.25rem;
 }
 
 .grid-gap-3 {
-    gap: 30px;
+    gap: 1.875rem;
 }
 
 .grid-gap-4 {
-    gap: 40px;
+    gap: 2.5rem;
 }
 
 /* flex */
@@ -743,7 +743,7 @@ body {
 
     /* container */
     .container {
-        margin: 0px 66px;
+        margin: 0rem 4.125rem;
     }
 
     /* grid properties */
@@ -765,7 +765,7 @@ body {
 
     /* container */
     .container {
-        margin: 0px 40px;
+        margin: 0rem 2.5rem;
     }
 
     /* grid properties */
@@ -786,7 +786,7 @@ body {
 
     /* container */
     .container {
-        margin: 0px 20px;
+        margin: 0rem 1.25rem;
     }
 
     /* grid properties */
